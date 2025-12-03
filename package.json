@@ -11,7 +11,7 @@
   "dependencies": {
     "react": "19.0.0-rc-206df66e-20240912",
     "react-dom": "19.0.0-rc-206df66e-20240912",
-    "next": "15.0.0-canary.155"
+    "next": "15.4.8"
   },
   "devDependencies": {
     "typescript": "^5",
